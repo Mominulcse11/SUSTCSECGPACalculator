@@ -16,6 +16,9 @@ const Header: React.FC = () => {
           <GraduationCap className="w-5 h-5" />
           <p className="text-lg">Shahjalal University of Science & Technology</p>
         </div>
+         <div className="flex justify-center mt-2">
+          <p className="text-blue-100 text-sm">Developed by Mominul Islam</p>
+        </div>
       </div>
     </header>
   );
