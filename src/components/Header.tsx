@@ -8,8 +8,8 @@ const Header: React.FC = () => {
         <div className="flex items-center justify-center space-x-3 mb-4">
           <School className="w-12 h-12" />
           <div className="text-center">
-            <h1 className="text-4xl font-bold">SUST CSE CGPA Calculator</h1>
-            <p className="text-emerald-100 text-lg">Session 2024-2025</p>
+            <h1 className="text-4xl font-bold"> CSE CGPA Calculator</h1>
+           
           </div>
         </div>
         <div className="flex items-center justify-center space-x-2 text-blue-100">
@@ -17,7 +17,7 @@ const Header: React.FC = () => {
           <p className="text-lg">Shahjalal University of Science & Technology</p>
         </div>
          <div className="flex justify-center mt-2">
-          <p className="text-blue-100 text-sm">Developed by Mominul Islam</p>
+          <p className="text-blue-100 text-sm">Developed by Mominul Islam  SUST CSE'24 </p>
         </div>
       </div>
     </header>
